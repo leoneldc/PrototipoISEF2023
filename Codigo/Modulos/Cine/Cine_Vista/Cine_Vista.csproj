@@ -59,6 +59,12 @@
       <DependentUpon>MDI_Cine.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reservacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservacion.Designer.cs">
+      <DependentUpon>Reservacion.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Clientes.resx">
@@ -67,6 +73,15 @@
     <EmbeddedResource Include="MDI_Cine.resx">
       <DependentUpon>MDI_Cine.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Reservacion.resx">
+      <DependentUpon>Reservacion.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cine_Controlador\Cine_Controlador.csproj">
+      <Project>{81aa07b7-8618-43f0-a344-ff9a367f895e}</Project>
+      <Name>Cine_Controlador</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

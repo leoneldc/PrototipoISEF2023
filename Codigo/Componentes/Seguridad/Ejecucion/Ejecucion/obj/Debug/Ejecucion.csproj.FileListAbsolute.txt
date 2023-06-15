@@ -112,3 +112,7 @@ D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion
 D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb
 D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Cine_Vista.dll
 D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Cine_Vista.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Cine_Controlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Cine_Modelo.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Cine_Controlador.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Cine_Modelo.pdb

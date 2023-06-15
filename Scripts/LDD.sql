@@ -368,3 +368,33 @@ ALTER TABLE `registroPuntos`
   ADD CONSTRAINT `fkregCl` FOREIGN KEY (`fkCliente`) 
   REFERENCES `Clientes` (`idClientes`);  
 
+
+DROP procedure IF EXISTS `sig`.`getAsientos`;
+;
+
+DELIMITER $$
+USE `sig`$$
+CREATE DEFINER=`root`@`localhost` PROCEDURE `getAsientos`(
+    IN pCine VARCHAR(45),
+    IN pPelicula VARCHAR(45)
+  )
+BEGIN
+    DECLARE vCineId INT;
+    DECLARE vPeliculaId INT;
+    
+    -- Obtener el ID del cine y la película
+    SELECT idCines INTO vCineId FROM Cines WHERE Nombre = pCine;
+    SELECT idPeliculas INTO vPeliculaId FROM Peliculas WHERE Nombre = pPelicula;
+    
+    -- Obtener las salas y la cantidad de asientos disponibles
+    SELECT s.idSalas, a.Columna, a.Fila AS AsientosDisponibles
+    FROM Salas s 
+    INNER JOIN Asientos a ON s.idSalas = a.fkSala
+    INNER JOIN horarioCine hc ON s.idSalas = hc.fkSala
+    WHERE s.fkCine = vCineId AND hc.fkPelicula = vPeliculaId
+    GROUP BY s.idSalas, a.Columna;
+END$$
+
+DELIMITER ;
+;
+

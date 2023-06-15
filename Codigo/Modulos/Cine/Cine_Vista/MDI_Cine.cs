@@ -23,5 +23,12 @@ namespace Cine_Vista
             clientes.MdiParent = this;
             clientes.Show();
         }
+
+        private void reservaciónToolStripMenuItem_Click(object sender, EventArgs e)
+        { 
+            Reservacion reservacion = new Reservacion();
+            reservacion.MdiParent = this;
+            reservacion.Show();
+        }
     }
 }

@@ -16,5 +16,10 @@ namespace Cine_Vista
         {
             InitializeComponent();
         }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

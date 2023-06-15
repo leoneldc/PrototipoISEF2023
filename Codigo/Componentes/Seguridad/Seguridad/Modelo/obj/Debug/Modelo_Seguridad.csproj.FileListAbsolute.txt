@@ -1,0 +1,12 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Seguridad\Modelo\bin\Debug\Modelo_Seguridad.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Seguridad\Seguridad\Modelo\obj\Debug\Modelo_Seguridad.pdb

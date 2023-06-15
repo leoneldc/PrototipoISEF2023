@@ -1,0 +1,18 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb

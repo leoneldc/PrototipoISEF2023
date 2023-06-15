@@ -1,0 +1,12 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Reporteador\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb

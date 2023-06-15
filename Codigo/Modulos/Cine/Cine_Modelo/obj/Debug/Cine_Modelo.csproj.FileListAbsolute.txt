@@ -1,0 +1,6 @@
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Modelo\bin\Debug\Cine_Modelo.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Modelo\bin\Debug\Cine_Modelo.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Modelo\obj\Debug\Cine_Modelo.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Modelo\obj\Debug\Cine_Modelo.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Modelo\obj\Debug\Cine_Modelo.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Modelo\obj\Debug\Cine_Modelo.pdb

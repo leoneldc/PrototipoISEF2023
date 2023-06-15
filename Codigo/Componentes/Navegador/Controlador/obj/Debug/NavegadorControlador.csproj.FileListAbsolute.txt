@@ -1,0 +1,76 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorControlador.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorControlador.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaVistaReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorModelo.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\Seguridad_Controlador.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaControladorReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\Modelo_Seguridad.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaModeloReporteria.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\stdole.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaVistaReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaVistaReporteria.dll.config
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorModelo.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorControlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorControlador.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaVistaReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\FontAwesome.Sharp.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorModelo.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\Seguridad_Controlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaControladorReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\Modelo_Seguridad.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaModeloReporteria.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.Shared.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\stdole.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaVistaReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaVistaReporteria.dll.config
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\NavegadorModelo.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\Seguridad_Controlador.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaControladorReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\Modelo_Seguridad.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\bin\Debug\CapaModeloReporteria.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.csproj.CopyComplete
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Navegador\Controlador\obj\Debug\NavegadorControlador.pdb

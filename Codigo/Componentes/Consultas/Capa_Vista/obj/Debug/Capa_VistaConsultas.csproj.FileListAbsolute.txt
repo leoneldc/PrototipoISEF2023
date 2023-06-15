@@ -1,0 +1,30 @@
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.AssemblyReference.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda_Simple.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda.resources
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.GenerateResource.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CoreCompileInputs.cache
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CopyComplete
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.dll
+C:\Users\leone\OneDrive\Escritorio\UNI\IS\pyIS23-Bueno\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_VistaConsultas.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\FontAwesome.Sharp.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_ControladorConsultas.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\bin\Debug\Capa_Modelo.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda_Simple.resources
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.Busqueda.resources
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.GenerateResource.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.csproj.CopyComplete
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Componentes\Consultas\Capa_Vista\obj\Debug\Capa_VistaConsultas.pdb

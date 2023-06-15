@@ -24,14 +24,14 @@ namespace Cine_Vista
 
         private void navegador1_Load(object sender, EventArgs e)
         {
-            NavegadorVista.Navegador.idApp = "4002";
+            NavegadorVista.Navegador.idApp = "2001";
             TextBox[] Grupotextbox = { txt_id, txt_nombre, txt_nit};
             TextBox[] Idtextbox = { txt_id, txt_nombre, txt_nit };
             navegador1.textbox = Grupotextbox;
-            navegador1.tabla = tbl_clientes;
+            navegador1.tabla = tbl_cientes;
             navegador1.textboxi = Idtextbox;
             navegador1.actual = this;
-            navegador1.cargar(tbl_clientes, Grupotextbox, "sig");
+            navegador1.cargar(tbl_cientes, Grupotextbox, "sig");
         }
     }
 }

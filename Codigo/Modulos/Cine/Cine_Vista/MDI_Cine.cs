@@ -19,7 +19,9 @@ namespace Cine_Vista
 
         private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Clientes clientes = new Clientes();
+            clientes.MdiParent = this;
+            clientes.Show();
         }
     }
 }

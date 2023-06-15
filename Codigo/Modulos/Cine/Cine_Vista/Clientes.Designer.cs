@@ -29,25 +29,16 @@ namespace Cine_Vista
         /// </summary>
         private void InitializeComponent()
         {
-            this.navegador1 = new NavegadorVista.Navegador();
             this.label1 = new System.Windows.Forms.Label();
             this.txt_id = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txt_nombre = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txt_nit = new System.Windows.Forms.TextBox();
-            this.tbl_clientes = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.tbl_clientes)).BeginInit();
+            this.tbl_cientes = new System.Windows.Forms.DataGridView();
+            this.navegador1 = new NavegadorVista.Navegador();
+            ((System.ComponentModel.ISupportInitialize)(this.tbl_cientes)).BeginInit();
             this.SuspendLayout();
-            // 
-            // navegador1
-            // 
-            this.navegador1.Location = new System.Drawing.Point(196, 14);
-            this.navegador1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.navegador1.Name = "navegador1";
-            this.navegador1.Size = new System.Drawing.Size(861, 234);
-            this.navegador1.TabIndex = 0;
-            this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
             // 
             // label1
             // 
@@ -106,26 +97,35 @@ namespace Cine_Vista
             this.txt_nit.TabIndex = 6;
             this.txt_nit.Tag = "Nit";
             // 
-            // tbl_clientes
+            // tbl_cientes
             // 
-            this.tbl_clientes.AllowUserToAddRows = false;
-            this.tbl_clientes.AllowUserToDeleteRows = false;
-            this.tbl_clientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.tbl_clientes.Location = new System.Drawing.Point(16, 344);
-            this.tbl_clientes.Name = "tbl_clientes";
-            this.tbl_clientes.ReadOnly = true;
-            this.tbl_clientes.RowHeadersWidth = 62;
-            this.tbl_clientes.RowTemplate.Height = 28;
-            this.tbl_clientes.Size = new System.Drawing.Size(1284, 393);
-            this.tbl_clientes.TabIndex = 7;
-            this.tbl_clientes.Tag = "Clientes";
+            this.tbl_cientes.AllowUserToAddRows = false;
+            this.tbl_cientes.AllowUserToDeleteRows = false;
+            this.tbl_cientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.tbl_cientes.Location = new System.Drawing.Point(16, 344);
+            this.tbl_cientes.Name = "tbl_cientes";
+            this.tbl_cientes.ReadOnly = true;
+            this.tbl_cientes.RowHeadersWidth = 62;
+            this.tbl_cientes.RowTemplate.Height = 28;
+            this.tbl_cientes.Size = new System.Drawing.Size(1284, 393);
+            this.tbl_cientes.TabIndex = 7;
+            this.tbl_cientes.Tag = "clientes";
+            // 
+            // navegador1
+            // 
+            this.navegador1.Location = new System.Drawing.Point(196, 14);
+            this.navegador1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.navegador1.Name = "navegador1";
+            this.navegador1.Size = new System.Drawing.Size(861, 234);
+            this.navegador1.TabIndex = 0;
+            this.navegador1.Load += new System.EventHandler(this.navegador1_Load);
             // 
             // Clientes
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1313, 749);
-            this.Controls.Add(this.tbl_clientes);
+            this.Controls.Add(this.tbl_cientes);
             this.Controls.Add(this.txt_nit);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.txt_nombre);
@@ -135,7 +135,7 @@ namespace Cine_Vista
             this.Controls.Add(this.navegador1);
             this.Name = "Clientes";
             this.Text = "Clientes";
-            ((System.ComponentModel.ISupportInitialize)(this.tbl_clientes)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tbl_cientes)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -150,6 +150,6 @@ namespace Cine_Vista
         private System.Windows.Forms.TextBox txt_nombre;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txt_nit;
-        private System.Windows.Forms.DataGridView tbl_clientes;
+        private System.Windows.Forms.DataGridView tbl_cientes;
     }
 }

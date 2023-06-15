@@ -567,7 +567,6 @@ namespace NavegadorControlador
                         string mensaje = "Por favor Verificar el nombre de la columna: " + table.Rows[x][0].ToString();
                         MessageBox.Show(mensaje, " Error Campo  ", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         
-                            Application.Exit();
                             break;
                         
                     }
@@ -636,7 +635,6 @@ namespace NavegadorControlador
 
         public void evaluartabla(DataGridView tabla)//Metodo para evaluar el nombre de la tabla
         {
-
             try
             {
                 OdbcDataAdapter dt = sentencia.buscarnombretabla();
@@ -658,7 +656,6 @@ namespace NavegadorControlador
                 {
                     string mensaje = "La tabla: " + tabla.Tag.ToString() + " no aparece en la Base de datos ";
                     MessageBox.Show(mensaje," Error Tabla ", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    Application.Exit();
                 }
             }
             catch (Exception e) 

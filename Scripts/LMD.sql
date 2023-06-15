@@ -20,7 +20,8 @@ INSERT INTO `tbl_aplicaciones` VALUES
 ('1103', 'Asign. Perfil Usuario', 'PARA SEGURIDAD', '1'),
 ('1201', 'Pcs. Cambio Contraseña', 'PARA SEGURIDAD', '1'),
 ('1301', 'Pcs. BITACORA', 'PARA SEGURIDAD', '1'),
-('2000', 'MDI VENTAS', 'PARA VENTAS', '1');
+('2000', 'MDI CINE', 'PARA CINE', '1'),
+('2001', 'Mant. Clientes', 'PARA CINE', '1');
 
 -- -----USUARIOS
 INSERT INTO `tbl_usuarios` VALUES
@@ -43,7 +44,8 @@ INSERT INTO `tbl_asignacionmoduloaplicacion` VALUES
 ('1000', '1103'),
 ('1000', '1201'),
 ('1000', '1301'),
-('2000', '2000');
+('2000', '2000'),
+('2000', '2001');
 
 -- -----PERMISOS DE APLICACIONES A PERFILES
 INSERT INTO `tbl_permisosAplicacionPerfil` VALUES
@@ -57,7 +59,8 @@ INSERT INTO `tbl_permisosAplicacionPerfil` VALUES
 ('1', '1103', '1', '1', '1', '1', '1'),
 ('1', '1201', '1', '1', '1', '1', '1'),
 ('1', '1301', '1', '1', '1', '1', '1'),
-('1', '2000', '1', '1', '1', '1', '1');
+('1', '2000', '1', '1', '1', '1', '1'),
+('1', '2001', '1', '1', '1', '1', '1');
 
 -- -----ASIGNACIÓN DE PERFIL A USUARIO
 INSERT INTO `tbl_asignacionesPerfilsUsuario` VALUES

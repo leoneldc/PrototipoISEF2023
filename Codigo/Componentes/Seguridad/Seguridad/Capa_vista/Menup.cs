@@ -26,9 +26,6 @@ namespace Vista_Seguridad
 
             cn.getAccesoApp(1000, apps[0]);
             cn.getAccesoApp(2000, apps[1]);
-
-
-
         }
         //Método que ingresa un valor a la bitacora de acuerdo el módulo
         public void btnlogout_Click(object sender, EventArgs e)

@@ -107,9 +107,9 @@ namespace NavegadorModelo
         public OdbcDataAdapter buscarnombretabla()
         {
 
-            string sql = "show tables";
+            string sql = "show tables;";
             OdbcDataAdapter datatable = new OdbcDataAdapter(sql, conexion.conexion());
-
+            
             return datatable;
         }
 

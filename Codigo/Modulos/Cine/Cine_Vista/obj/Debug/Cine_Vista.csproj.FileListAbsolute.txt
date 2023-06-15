@@ -1,0 +1,8 @@
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Vista.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Vista.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.csproj.GenerateResource.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.CINE.resources

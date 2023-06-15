@@ -1,0 +1,6 @@
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Controlador\bin\Debug\Cine_Controlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Controlador\bin\Debug\Cine_Controlador.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Controlador\obj\Debug\Cine_Controlador.csproj.AssemblyReference.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Controlador\obj\Debug\Cine_Controlador.csproj.CoreCompileInputs.cache
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Controlador\obj\Debug\Cine_Controlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Controlador\obj\Debug\Cine_Controlador.pdb

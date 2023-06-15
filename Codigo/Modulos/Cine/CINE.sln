@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cine_Vista", "Cine_Vista\Cine_Vista.csproj", "{7FFABDA4-784E-4022-997B-E48F2693336B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cine_Modelo", "Cine_Modelo\Cine_Modelo.csproj", "{ABD182EB-E173-4079-A0BF-0A7DE727A410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cine_Controlador", "Cine_Controlador\Cine_Controlador.csproj", "{81AA07B7-8618-43F0-A344-FF9A367F895E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FFABDA4-784E-4022-997B-E48F2693336B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FFABDA4-784E-4022-997B-E48F2693336B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FFABDA4-784E-4022-997B-E48F2693336B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FFABDA4-784E-4022-997B-E48F2693336B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD182EB-E173-4079-A0BF-0A7DE727A410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD182EB-E173-4079-A0BF-0A7DE727A410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD182EB-E173-4079-A0BF-0A7DE727A410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD182EB-E173-4079-A0BF-0A7DE727A410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81AA07B7-8618-43F0-A344-FF9A367F895E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AA07B7-8618-43F0-A344-FF9A367F895E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AA07B7-8618-43F0-A344-FF9A367F895E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AA07B7-8618-43F0-A344-FF9A367F895E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E8254EF-E85E-462E-BCB1-D942F18016F4}
+	EndGlobalSection
+EndGlobal

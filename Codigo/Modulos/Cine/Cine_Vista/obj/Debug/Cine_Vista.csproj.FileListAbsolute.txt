@@ -49,3 +49,8 @@ D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\CapaCon
 D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Capa_Modelo.pdb
 D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\CapaModeloReporteria.pdb
 D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.csproj.CopyComplete
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\obj\Debug\Cine_Vista.Reservacion.resources
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Controlador.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Modelo.dll
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Controlador.pdb
+D:\Universidad\SEMESTRE 9\IS\PF\Codigo\Modulos\Cine\Cine_Vista\bin\Debug\Cine_Modelo.pdb
